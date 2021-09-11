@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.hearsay
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, aws-lambda, aws-lambda-custom-runtime, graalvm, gradle, http-client, junit, kotlin, logback, readme, shade, yaml]
